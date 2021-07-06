@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 type="estream" channelId="1" name="Canal 5" group="Televisión abierta" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="Televisión abierta", Canal 5
-https://882p3a93g5.azcdn381.net:8443/hls/da0s08.m3u8?s=HBIFE_kl9HVpi3L-V9hVGg&e=1625564350
-
-#EXTINF:-1 type="estream" channelId="2" name="Azteca 7" group="Televisión abierta" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" tvg-country="Televisión abierta", Azteca 7
-https://882p3a93g5.azcdn381.net:8443/hls/yv4z9a.m3u8?s=fQzrJadtu3yzsEc7swmHHQ&e=1625565472
